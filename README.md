@@ -16,6 +16,10 @@ Personal configuration files for my Linux setup.
 - `.gitconfig` - Git config with GPG signing enabled
 - `.gitignore` - Standard ignores
 
+## Preview
+
+![Terminal screenshot](images/terminal.png)
+
 ## Installation
 
 ```fish
