@@ -6,8 +6,9 @@ Personal configuration files for my Linux setup.
 
 - **OS:** Debian Trixie
 - **DE:** KDE Plasma 6 (Wayland)
+- **Terminal:** [kitty](https://github.com/kovidgoyal/kitty) + [Catppuccin for kitty](https://github.com/catppuccin/kitty)
 - **Shell:** [fish](https://github.com/fish-shell/fish-shell)
-- **Editor:** [micro](https://github.com/micro-editor/micro)
+- **Editor:** [micro](https://github.com/micro-editor/micro) + [Catppuccin for micro](https://github.com/catppuccin/micro)
 - **Fetch:** [hyfetch](https://github.com/hykilpikonna/hyfetch) & [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 ## What's Here
