@@ -34,6 +34,10 @@ cp fish/config.fish ~/.config/fish/config.fish
 
 # Copy git config
 cp .gitconfig ~/.gitconfig
+
+# Copy fastfetch config
+mkdir -p ~/.config/fastfetch
+cp fastfetch/config.jsonc ~/.config/fastfetch/config.jsonc
 ```
 ## License
 [GPL v3](LICENSE)
