@@ -1,0 +1,5 @@
+[user]
+	name = TerminalTilt
+	email = hello@terminaltilt.com
+[commit]
+	gpgsign = true

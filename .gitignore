@@ -1,0 +1,20 @@
+# Secrets
+*.key
+*.pem
+*.gpg
+id_*
+*.pass
+ssh/
+gnupg/
+.env
+*token*
+*secret*
+*password*
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# Large/generated
+*.log
+*.cache
