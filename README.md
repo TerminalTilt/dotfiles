@@ -6,8 +6,9 @@ Personal configuration files for my Linux setup.
 
 - **OS:** Debian Trixie
 - **DE:** KDE Plasma 6 (Wayland)
-- **Shell:** fish
-- **Editor:** micro
+- **Shell:** [fish](https://github.com/fish-shell/fish-shell)
+- **Editor:** [micro](https://github.com/micro-editor/micro)
+- **Fetch:** [hyfetch](https://github.com/hykilpikonna/hyfetch) & [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 ## What's Here
 
@@ -19,6 +20,7 @@ Personal configuration files for my Linux setup.
 ## Preview
 
 ![Terminal screenshot](images/terminal.png)
+Hyfetch in Omnisexual colors with fish and fastfetch custom pink/purple theming.
 
 ## Installation
 
@@ -33,4 +35,4 @@ cp fish/config.fish ~/.config/fish/config.fish
 cp .gitconfig ~/.gitconfig
 ```
 ## License
-GPL v3
+[GPL v3](LICENSE)
